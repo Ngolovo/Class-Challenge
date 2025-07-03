@@ -1,0 +1,11 @@
+# LEARNING GIT
+## git basic commands
+- `git init` - Initializes a brand new Git repository and begins tracking an existing directory. Adds a hidden subfolder that houses the internal data structure required for version control
+- `git clone` - creates a local copy of a project that already exists remotely.
+- `git add` - stages a change
+- `git commit` - saves a snapshot to the project history and completes the change tracking process.
+- `git sttus` - shows the status of changes as untracked , modified or staged
+- `git branch `- shows the branches being worked on locally
+- `git merge` - merges lines of development together. Typically used to combine changes made on two dinstinct branches.
+- `git pul` - Updates the local line of development with updates from its remote counterpart.
+- `git push` - Updates the remote repository with any commits made locally.
